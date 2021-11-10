@@ -4,7 +4,7 @@ id: "bbhatt-casc-nov-ops-controller"
 description: "CloudBees CI configuration bundle for the bbhatt-casc-nov ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/bbhatt-casc-nov/ops-controller"
 jcasc:
-  - "jenkins.yaml"
+  - "jcasc/"
 plugins:
   - "plugins.yaml"
 items:
